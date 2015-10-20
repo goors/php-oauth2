@@ -1,0 +1,8 @@
+{
+    "name": "goors/php-oauth2",
+    "autoload": {
+        "psr-4" : {
+            "Oauth2\\Server\\Storage\\Pdo\\Mysql" : "src"
+        }
+    }
+}
